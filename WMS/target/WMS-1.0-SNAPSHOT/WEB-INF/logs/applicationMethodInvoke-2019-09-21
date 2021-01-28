@@ -1,0 +1,16 @@
+[09-21-17-37-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-21-17-37-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-21-17-37-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-21-17-37-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-21-17-37-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-44][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-44][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args£º-1none05
+ [09-21-17-37-54][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-54][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args£º-1none05
+ [09-21-17-37-57][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-37-58][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ [09-21-17-38-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args£º-1-1
+ 
